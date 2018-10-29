@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LaunchTheme" parent="LaunchTheme.v21"/>
+
+    <style name="LaunchTheme.v21" parent="LaunchTheme.v19">
+        <!--设置状态栏颜色-->
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LaunchTheme" parent="LaunchTheme.v1"/>
+
+    <style name="LaunchTheme.v1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <!--设置背景-->
+        <item name="android:windowBackground">@drawable/launch_bg</item>
+        <!--
+        设置全屏
+        效果：没有状态栏
+        -->
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

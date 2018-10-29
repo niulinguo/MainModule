@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LaunchTheme" parent="LaunchTheme.v19"/>
+
+    <style name="LaunchTheme.v19" parent="LaunchTheme.v1">
+        <!--设置是否为“浸入式”状态栏-->
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+</resources>

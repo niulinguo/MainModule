@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LaunchTheme" parent="LaunchTheme.v23"/>
+
+    <style name="LaunchTheme.v23" parent="LaunchTheme.v21">
+        <!--
+        设置状态栏的颜色是否为亮色
+        true：状态栏为“亮色”，文字为“黑色”
+        false：状态栏为“暗色”，文字为“白色”
+        -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
